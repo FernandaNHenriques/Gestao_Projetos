@@ -9,7 +9,7 @@ Funcionalidades
 - Adicionar novo projeto
 - Ver detalhes de um projeto específico
 - Listar todos os projetos registrados
-- 🗑Remover um projeto existente
+- Remover um projeto existente
 - Calcular a receita total esperada dos projetos
 - Sair do sistema com segurança
 
